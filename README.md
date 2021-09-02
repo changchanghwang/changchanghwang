@@ -1,5 +1,4 @@
 ## _Hwang's github_
-<hr/>
 
 ### 💼 _Career_
 _2014.03 ~ 2020.02_ Bachelor of Medical Electronic in BioMedical Engineering , Konkuk University
