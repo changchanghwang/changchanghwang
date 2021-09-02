@@ -19,4 +19,4 @@ _2020.12 ~ 2021.07_ : BioMedical Enginerring Researcher, Samsung Medical Center
 Email : hch950627@naver.com
 <hr/>
 
- [![Hwang's github stats](https://github-readme-stats.vercel.app/api?username=changchanghwang)](https://github.com/changchanghwang/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changchanghwang)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changchanghwang&&show_icons=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changchanghwang)
