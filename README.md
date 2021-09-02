@@ -1,11 +1,11 @@
 ## _Hwang's github_
 
 ### 💼 _Career_
-_2014.03 ~ 2020.02_ Bachelor of Medical Electronic in BioMedical Engineering , Konkuk University
+_2014.03 ~ 2020.02_ : Bachelor of Medical Electronic in BioMedical Engineering , Konkuk University
 
-_2018.03 ~ 2020.02_ Bachelor of Companion Animal Convergence, Konkuk University
+_2018.03 ~ 2020.02_ : Bachelor of Companion Animal Convergence, Konkuk University
 
-_2020.12 ~ 2021.07_ BioMedical Enginerring Researcher, Samsung Medical Center
+_2020.12 ~ 2021.07_ : BioMedical Enginerring Researcher, Samsung Medical Center
 <hr/>
 
 ### 📫 _Tech Stack_  
