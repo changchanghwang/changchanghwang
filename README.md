@@ -24,7 +24,8 @@ _Tech Stack_
 ### 📞 _Contact_
 Email : hch950627@naver.com
 <hr/>
-### [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@changchanghwang)
+### VELOG
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@changchanghwang)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/changchanghwang/velog-readme-stats)
 <hr/>
 
