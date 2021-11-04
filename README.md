@@ -23,7 +23,9 @@ _Tech Stack_
 
 ### 📞 _Contact_
 Email : hch950627@naver.com
-<a href="https://velog.io/@changchanghwang"><img src="https://img.shields.io/badge/VELOG-#7FFFD4?style=squre&logo=C&logoColor=white"/></a>
+<hr/>
+### [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@changchanghwang)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/changchanghwang/velog-readme-stats)
 <hr/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changchanghwang&&show_icons=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changchanghwang)
