@@ -27,7 +27,7 @@ Email : hch950627@naver.com
 
 ### VELOG
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hwang )](https://velog.io/@changchanghwang)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@changchanghwang)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=changchanghwang)](https://github.com/changchanghwang/velog-readme-stats)
 <hr/>
