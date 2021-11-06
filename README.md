@@ -32,7 +32,7 @@ Email : hch950627@naver.com
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=changchanghwang&color=dark)](https://github.com/changchanghwang/velog-readme-stats)
 <hr/>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com&count_bg=%23000000&title_bg=%239BA1FF&icon=&icon_color=%23C4C2E9&title=hits&edge_flat=true"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangchanghwang&count_bg=%23003CEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changchanghwang&&show_icons=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changchanghwang)
 
