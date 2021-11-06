@@ -1,5 +1,8 @@
 ## _Hwang's github_
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangchanghwang&count_bg=%23003CEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
 ### 💼 _Career_
 _2014.03 ~ 2020.02_ : Bachelor of Medical Electronic in BioMedical Engineering , Konkuk University
 
@@ -31,8 +34,6 @@ Email : hch950627@naver.com
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=changchanghwang&color=dark)](https://github.com/changchanghwang/velog-readme-stats)
 <hr/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangchanghwang&count_bg=%23003CEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changchanghwang&&show_icons=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changchanghwang)
 
