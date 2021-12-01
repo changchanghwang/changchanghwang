@@ -14,6 +14,7 @@ _2020.12 ~ 2021.07_ : BioMedical Enginerring Researcher, Samsung Medical Center
 ### 📫
 _Tech Stack_  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> ![](https://img.shields.io/badge/Node.js-ABF200?style=flat-square&logo=node.js&logoColor=white)&nbsp; 
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=squre&logo=spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=squre&logo=flask&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-964B00?style=squre&logo=java&logoColor=white"/></a>  
 
