@@ -25,6 +25,8 @@ _2020.12 ~ 2021.07_ : BioMedical Enginerring Researcher, Samsung Medical Center
 <img src="https://img.shields.io/badge/C-A8B9CC?style=squre&logo=C&logoColor=white"/></a>
 <hr/>
 
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphQL&logoColor=black) ![Apollo](https://img.shields.io/badge/Apollo-311C87.svg?style=for-the-badge&logo=ApolloGraphQL&logoColor=black)
+
 ### 📞 _Contact_
 Email : hch950627@naver.com
 <hr/>
