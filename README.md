@@ -15,8 +15,6 @@ _2020.12 ~ 2021.07_ : BioMedical Enginerring Researcher, Samsung Medical Center
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> ![](https://img.shields.io/badge/Node.js-ABF200?style=flat-square&logo=node.js&logoColor=white)&nbsp; 
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphQL&logoColor=black"/></a> <img src="https://img.shields.io/badge/Apollo-311C87.svg?style=for-the-badge&logo=ApolloGraphQL&logoColor=black"/></a>
-
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=squre&logo=MongoDB&logoColor=white"/></a> <img src="https://img.shields.io/badge/MariaDB-003545?style=squre&logo=mariaDB&logoColor=white"/></a> ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&nbsp; 
 <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> 
 
