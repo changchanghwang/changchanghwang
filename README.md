@@ -9,6 +9,7 @@ _2014.03 ~ 2020.02_ : Bachelor of Medical Electronic in BioMedical Engineering ,
 _2018.03 ~ 2020.02_ : Bachelor of Companion Animal Convergence, Konkuk University
 
 _2020.12 ~ 2021.07_ : BioMedical Enginerring Researcher, Samsung Medical Center
+
 <hr/>
 
 ### 📫_Tech Stack_  
