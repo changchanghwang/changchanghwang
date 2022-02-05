@@ -4,15 +4,15 @@
 
 
 ### 💼 _Career_
-_2014.03 ~ 2020.02_ : Bachelor of Medical Electronic in BioMedical Engineering , Konkuk University
+_2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , Konkuk University_
 
-_2018.03 ~ 2020.02_ : Bachelor of Companion Animal Convergence, Konkuk University
+_2018.03 ~ 2020.02 : Bachelor of Companion Animal Convergence, Konkuk University_
 
-_2020.12 ~ 2021.07_ : BioMedical Enginerring Researcher, Samsung Medical Center
+_2020.12 ~ 2021.07 : BioMedical Enginerring Researcher, Samsung Medical Center_
 
-_2021.09 ~ 2021.12_ : BootCamp HangHae99, Sparta coding club (Node.js curriculum)
+_2021.09 ~ 2021.12 : BootCamp HangHae99, Sparta coding club (Node.js curriculum)_
 
-_2022.02 ~ _ : Software Developer, Ecube Labs
+_2022.02 ~  : Software Developer, Ecube Labs_
 
 <hr/>
 
