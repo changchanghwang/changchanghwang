@@ -12,7 +12,7 @@ _2020.12 ~ 2021.07_ : BioMedical Enginerring Researcher, Samsung Medical Center
 
 _2021.09 ~ 2021.12_ : BootCamp HangHae99, Sparta coding club (Node.js curriculum)
 
-_2022.02 ~_ : Software Developer, Ecube Labs
+_2022.02 ~ _ : Software Developer, Ecube Labs
 
 <hr/>
 
