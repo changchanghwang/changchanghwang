@@ -10,6 +10,8 @@ _2018.03 ~ 2020.02_ : Bachelor of Companion Animal Convergence, Konkuk Universit
 
 _2020.12 ~ 2021.07_ : BioMedical Enginerring Researcher, Samsung Medical Center
 
+_2021.09 ~ 2021.12_ : BootCamp HangHae99, Sparta coding club (Node.js curriculum)
+
 <hr/>
 
 ### 📫_Tech Stack_  
