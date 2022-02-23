@@ -8,7 +8,7 @@ _2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , 
 
 _2018.03 ~ 2020.02 : Bachelor of Companion Animal Convergence, Konkuk University_
 
-_2020.12 ~ 2021.07 : BioMedical Enginerring Researcher, Samsung Medical Center_
+_2020.12 ~ 2021.07 : BioMedical Engineering Researcher, Samsung Medical Center_
 
 _2021.09 ~ 2021.12 : BootCamp HangHae99, Sparta coding club (Node.js curriculum)_
 
