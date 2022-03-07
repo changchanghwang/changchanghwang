@@ -46,7 +46,9 @@ Email : hch950627@naver.com
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@changchanghwang)
 
+<a href='https://velog.io/@changchanghwang'>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=changchanghwang&color=dark)](https://github.com/changchanghwang/velog-readme-stats)
+</a>
 <hr/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changchanghwang&&show_icons=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changchanghwang)
