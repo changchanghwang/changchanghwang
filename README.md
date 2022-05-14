@@ -17,11 +17,7 @@ _2022.02 ~  : Software Developer, Ecube Labs_
 <hr/>
 
 ### 📫_Tech Stack_  
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> 
-<img src="https://img.shields.io/badge/Node.js-ABF200?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> <img src="https://img.shields.io/badge/Node.js-ABF200?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" /> 
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=squre&logo=MongoDB&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=squre&logo=mariaDB&logoColor=white"/></a> 
