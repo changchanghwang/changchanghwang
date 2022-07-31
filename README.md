@@ -17,13 +17,21 @@ _2022.02 ~  : Full Stack Software Developer, Ecube Labs_
 <hr/>
 
 ### 📫_Tech Stack_  
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> <img src="https://img.shields.io/badge/Node.js-ABF200?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" /> 
 
+#### Primary Tech
+![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=TypeScript&logoColor=white&style=flat-square)
+![Koa](https://img.shields.io/badge/-Koa-33333D?&logo=Koa&logoColor=white&style=flat-square)
+![Jest](https://img.shields.io/badge/-Jest-C21325?&logo=Jest&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white&style=flat-square)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white&style=flat-square)
+![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&nbsp; 
+
+#### Interest Tech
+![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=white&style=flat-square)
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=squre&logo=MongoDB&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=squre&logo=mariaDB&logoColor=white"/></a> 
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&nbsp; 
 <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=HTML5&logo=spring&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=squre&logo=CSS3&logoColor=white"/></a>  
 
