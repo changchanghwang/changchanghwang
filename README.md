@@ -26,7 +26,7 @@ _2022.02 ~  : Full Stack Software Developer, Ecube Labs_
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white&style=flat-square)
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&nbsp; 
 
-#### Interest Tech
+#### Interesting Tech
 ![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=white&style=flat-square)
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=squre&logo=MongoDB&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=squre&logo=mariaDB&logoColor=white"/></a> 
