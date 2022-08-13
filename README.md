@@ -4,15 +4,16 @@
 
 
 ### 💼 _Career_
-_2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , Konkuk University_
-
-_2018.03 ~ 2020.02 : Bachelor of Companion Animal Convergence, Konkuk University_
-
-_2020.12 ~ 2021.07 : Medical Device Usability Test Researcher, BioMedical Engineering Center, Samsung Medical Center_
+_2022.02 ~  : Full Stack Software Developer, Ecube Labs_
 
 _2021.09 ~ 2021.12 : BootCamp HangHae99, Sparta coding club (Node.js curriculum)_
 
-_2022.02 ~  : Full Stack Software Developer, Ecube Labs_
+_2020.12 ~ 2021.07 : Medical Device Usability Test Researcher, BioMedical Engineering Center, Samsung Medical Center_
+
+_2018.03 ~ 2020.02 : Bachelor of Companion Animal Convergence, Konkuk University_
+
+_2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , Konkuk University_
+
 
 <hr/>
 
