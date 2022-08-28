@@ -30,12 +30,9 @@ _2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , 
 
 #### Interesting Tech
 ![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=white&style=flat-square)
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=squre&logo=MongoDB&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/MariaDB-003545?style=squre&logo=mariaDB&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=HTML5&logo=spring&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=squre&logo=CSS3&logoColor=white"/></a>  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
 <hr/>
 
