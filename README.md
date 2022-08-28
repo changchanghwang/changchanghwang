@@ -23,9 +23,10 @@ _2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , 
 ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=TypeScript&logoColor=white&style=flat-square)
 ![Koa](https://img.shields.io/badge/-Koa-33333D?&logo=Koa&logoColor=white&style=flat-square)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?&logo=Jest&logoColor=white&style=flat-square)
+![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white&style=flat-square)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white&style=flat-square)
-![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&nbsp; 
+![Next](https://img.shields.io/badge/-Next.js-000000?&logo=Next.js&logoColor=white&style=flat-square)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white&style=flat-square)&nbsp; 
 
 #### Interesting Tech
 ![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=white&style=flat-square)
