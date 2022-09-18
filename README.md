@@ -28,7 +28,7 @@ _2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , 
 ![Next](https://img.shields.io/badge/-Next.js-000000?&logo=Next.js&logoColor=white&style=flat-square)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white&style=flat-square)&nbsp; 
 
-#### Interesting Tech
+#### Experience Tech
 ![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
