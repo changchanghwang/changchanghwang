@@ -25,6 +25,7 @@ _2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?&logo=Jest&logoColor=white&style=flat-square)
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white&style=flat-square)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?&logo=NestJs&logoColor=white&style=flat-square)&nbsp; 
 ![Next](https://img.shields.io/badge/-Next.js-000000?&logo=Next.js&logoColor=white&style=flat-square)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white&style=flat-square)&nbsp; 
 
