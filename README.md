@@ -32,7 +32,6 @@ _2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , 
 AND `Domain Driven Design`
 
 #### Experienced Tech
-![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
