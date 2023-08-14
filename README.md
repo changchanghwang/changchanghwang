@@ -29,7 +29,7 @@ _2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , 
 ![Next](https://img.shields.io/badge/-Next.js-000000?&logo=Next.js&logoColor=white&style=flat-square)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white&style=flat-square)&nbsp; 
 
-##### AND `Domain Driven Design`
+##### AND I Love `Domain Driven Design`
 
 #### Experienced Tech
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
