@@ -1,8 +1,5 @@
 ## _Hwang's github_
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangchanghwang&count_bg=%23003CEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-
 ### 💼 _Career_
 _2022.02 ~  : Full Stack Software Developer, Ecube Labs_
 
@@ -36,6 +33,8 @@ _2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changchanghwang&hide=javascript,css,scss,html&theme=tokyonight)
 
 <hr/>
 
