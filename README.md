@@ -1,7 +1,9 @@
 ## _Hwang's github_
 
 ### 💼 _Career_
-_2022.02 ~  : Full Stack Software Developer, Ecube Labs_
+_2025.09 ~         : Founder, Naviary_
+
+_2022.02 ~ 2025.09 : Full Stack Software Developer, Ecube Labs_
 
 _2021.09 ~ 2021.12 : BootCamp HangHae99, Sparta coding club (Node.js curriculum)_
 
