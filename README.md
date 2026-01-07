@@ -36,8 +36,6 @@ _2014.03 ~ 2020.02 : Bachelor of Medical Electronic in BioMedical Engineering , 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changchanghwang&hide=javascript,css,scss,html&theme=tokyonight)
-
 <hr/>
 
 ### 📞 _Contact_
@@ -47,8 +45,3 @@ Email : hch950627@naver.com
 ### VELOG 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@changchanghwang)
-
-<hr/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changchanghwang&&show_icons=true&theme=great-gatsby) 
-
