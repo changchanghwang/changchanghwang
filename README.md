@@ -1,7 +1,7 @@
 ## _Hwang's github_
 
 ### 💼 _Career_
-_2025.09 ~         : Founder, [Naviary](https://naviary.io)_
+_2025.09 ~         : Founder & Aviculturist, [Naviary](https://naviary.io)_
 
 _2022.02 ~ 2025.09 : Full Stack Software Developer, Ecube Labs_
 
